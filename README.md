@@ -1,4 +1,5 @@
 # Outlier Visualizer
+Real-world datasets often present challenges for outlier detection due to their inherently messy nature and unclear cluster boundaries. While numerous outlier detection algorithms exist, their performance varies significantly, and to address this challenge of evaluating consensus, we developed OutlierVisualizer—a specialized visualization tool that evaluates and compares the effectiveness of eight distinct outlier detection algorithms when applied to specific dataset.
 
 ## Clone the Repository
 
